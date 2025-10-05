@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mariajoseborregoosete.com/sitemap.xml
+Sitemap: https://fernandasar-portfolio.web.app/sitemap.xml
