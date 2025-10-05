@@ -1,0 +1,692 @@
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:06:48.451Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.453Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.456Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.469Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.472Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.627Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.628Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.628Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.633Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.636Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.649Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.652Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.652Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.660Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.660Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.670Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.670Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.670Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.675Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.675Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.687Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.687Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.687Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.688Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.688Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.702Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.707Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.709Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.710Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.710Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.719Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.719Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.719Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.726Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.726Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.738Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.738Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.738Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.739Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.739Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.748Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.748Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.748Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.753Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.753Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.760Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.760Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.760Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.761Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.761Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:06:48.835Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.835Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.835Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.836Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.836Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.841Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.842Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.842Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.843Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.843Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.851Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.851Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.852Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.852Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.852Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.862Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.863Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.863Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.863Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.869Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.877Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.878Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.878Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.878Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.878Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.894Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.894Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.894Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.895Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.895Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.904Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.904Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.904Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.904Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.909Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.916Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.916Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.916Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.920Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.920Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.934Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.934Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.934Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.936Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.937Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:48.945Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.945Z] Checked if tokens are valid: false, expires at: 1759511817285
+[debug] [2025-10-04T20:06:48.945Z] > refreshing access token with scopes: []
+[debug] [2025-10-04T20:06:48.945Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-04T20:06:48.950Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.285Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.286Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.343Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.343Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.353Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.353Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.371Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.371Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.379Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.379Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.398Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.399Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.407Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.407Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.427Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.427Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.436Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.436Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.455Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.456Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.463Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.463Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.481Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.481Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.505Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.506Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.530Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-04T20:06:49.530Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.536Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.537Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.552Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.552Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.591Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.591Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.606Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.607Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.611Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.614Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.635Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.638Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.675Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.676Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.694Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-04T20:06:49.694Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.702Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.702Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.721Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.721Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.768Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.768Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.787Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.788Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.792Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.795Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.810Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-04T20:06:49.811Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.826Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.826Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.841Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.842Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:49.972Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:49.972Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:49.994Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-04T20:06:49.994Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:50.037Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:50.039Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:50.063Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-04T20:06:50.063Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:50.071Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:50.071Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:50.099Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-10-04T20:06:50.099Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:50.109Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:50.109Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:50.146Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-04T20:06:50.146Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:50.177Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-04T20:06:50.177Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-04T20:06:50.202Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-10-04T20:06:50.202Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:06:50.350Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com 200
+[debug] [2025-10-04T20:06:50.354Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.379Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-04T20:06:50.379Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.404Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-04T20:06:50.404Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.429Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com 200
+[debug] [2025-10-04T20:06:50.440Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.484Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-04T20:06:50.485Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.489Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-04T20:06:50.489Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.492Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com 200
+[debug] [2025-10-04T20:06:50.492Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.504Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-04T20:06:50.504Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.535Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-04T20:06:50.535Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.586Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-04T20:06:50.586Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[debug] [2025-10-04T20:06:50.658Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-04T20:06:50.659Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-04T20:06:50.680Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-10-04T20:06:50.680Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.690Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com 200
+[debug] [2025-10-04T20:06:50.690Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.796Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com 200
+[debug] [2025-10-04T20:06:50.798Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:50.909Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-04T20:06:50.909Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[debug] [2025-10-04T20:06:50.928Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-04T20:06:50.928Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-04T20:06:51.009Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-04T20:06:51.009Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:51.027Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-04T20:06:51.027Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:51.028Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com 200
+[debug] [2025-10-04T20:06:51.028Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-10-04T20:06:51.039Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com 200
+[debug] [2025-10-04T20:06:51.040Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/storage.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:06:51.063Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-04T20:06:51.064Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:07:49.795Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.796Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.796Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.797Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.797Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.798Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.798Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.799Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.799Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.799Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.801Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-04T20:07:49.801Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.836Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-04T20:07:49.836Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.839Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-04T20:07:49.839Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.841Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-04T20:07:49.842Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.844Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-04T20:07:49.844Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:07:49.926Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.926Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.927Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.927Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.927Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.928Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.928Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.928Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.928Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.928Z] Checked if tokens are valid: true, expires at: 1759612009177
+[debug] [2025-10-04T20:07:49.929Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-04T20:07:49.929Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.931Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-04T20:07:49.931Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.933Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-04T20:07:49.933Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.935Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-04T20:07:49.936Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:49.938Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-04T20:07:49.938Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-04T20:07:50.266Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-04T20:07:50.266Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-04T20:07:50.550Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-04T20:07:50.550Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-04T20:07:50.587Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-04T20:07:50.588Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-04T20:07:50.648Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-04T20:07:50.649Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-04T20:07:50.656Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-04T20:07:50.657Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-04T20:07:50.657Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-04T20:07:50.657Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-04T20:07:50.660Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-04T20:07:50.660Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-04T20:07:50.664Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-04T20:07:50.664Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-04T20:07:50.899Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-04T20:07:50.900Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:07:50.913Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-04T20:07:50.914Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:07:50.938Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-04T20:07:50.939Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-04T20:07:50.958Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-04T20:07:50.959Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[debug] [2025-10-04T20:07:51.004Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-04T20:07:51.004Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:25.655Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.656Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.657Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.662Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.663Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.732Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.733Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.734Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.735Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.735Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.741Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.742Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.742Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.743Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.744Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.747Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.748Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.748Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.749Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.749Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.753Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.754Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.754Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.755Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.755Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:25.815Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.816Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.816Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.816Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.816Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.820Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.820Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.820Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.821Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.821Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.824Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.824Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.824Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.825Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.825Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.828Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.828Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.828Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.829Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.829Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:25.833Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.833Z] Checked if tokens are valid: false, expires at: 1759612009177
+[debug] [2025-10-05T10:34:25.833Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T10:34:25.836Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T10:34:25.836Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.011Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.028Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.073Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T10:34:26.073Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.080Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.081Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.098Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T10:34:26.098Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.141Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.141Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.164Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T10:34:26.164Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.178Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.179Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.201Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T10:34:26.201Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.208Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.208Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.227Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T10:34:26.228Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.232Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.233Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.255Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T10:34:26.255Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.267Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.267Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.288Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T10:34:26.288Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.296Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.296Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.310Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T10:34:26.310Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.317Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.318Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.330Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T10:34:26.330Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.348Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T10:34:26.349Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T10:34:26.367Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T10:34:26.367Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:26.754Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T10:34:26.755Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T10:34:26.970Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T10:34:26.970Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:27.016Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T10:34:27.017Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T10:34:27.083Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T10:34:27.084Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[debug] [2025-10-05T10:34:27.118Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T10:34:27.118Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:27.124Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T10:34:27.125Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:27.125Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T10:34:27.125Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:27.126Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T10:34:27.126Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:27.127Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T10:34:27.127Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:28.378Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T10:34:28.378Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:28.387Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T10:34:28.387Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:30.801Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.802Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.803Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.803Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.804Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.804Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.805Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.805Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.805Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.806Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.807Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T10:34:30.808Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.839Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T10:34:30.839Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.842Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T10:34:30.843Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.845Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T10:34:30.845Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.848Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T10:34:30.848Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:30.917Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.917Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.918Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.918Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.919Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.919Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.919Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.919Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.919Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.919Z] Checked if tokens are valid: true, expires at: 1759664065349
+[debug] [2025-10-05T10:34:30.920Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T10:34:30.920Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.922Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T10:34:30.922Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.924Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T10:34:30.924Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.926Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T10:34:30.926Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:30.929Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T10:34:30.929Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T10:34:31.221Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T10:34:31.221Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:31.567Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T10:34:31.568Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T10:34:31.590Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T10:34:31.590Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T10:34:31.645Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T10:34:31.645Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:31.646Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T10:34:31.646Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:31.662Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T10:34:31.668Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:31.674Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T10:34:31.674Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:31.676Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T10:34:31.676Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T10:34:31.874Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T10:34:31.875Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[debug] [2025-10-05T10:34:31.922Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T10:34:31.922Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:31.935Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T10:34:31.935Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:31.965Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T10:34:31.966Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T10:34:31.979Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T10:34:31.980Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:17.405Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:17.409Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:17.421Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:17.467Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:17.477Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.163Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.183Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.184Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.190Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.191Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.254Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.259Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.260Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.269Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.270Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.326Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.326Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.337Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.343Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.344Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.399Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.399Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.399Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.400Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.413Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:18.715Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.715Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.715Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.723Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.723Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.752Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.756Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.756Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.758Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.758Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.797Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.798Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.798Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.813Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.819Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.855Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.856Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.865Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.874Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.875Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:18.907Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.915Z] Checked if tokens are valid: false, expires at: 1759664065349
+[debug] [2025-10-05T21:44:18.915Z] > refreshing access token with scopes: []
+[debug] [2025-10-05T21:44:18.919Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-10-05T21:44:18.920Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:19.384Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:19.393Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:19.422Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T21:44:19.422Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:19.465Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:19.466Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:19.524Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T21:44:19.530Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:19.854Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:19.867Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:19.950Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T21:44:19.950Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.005Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.005Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.068Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T21:44:20.074Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.125Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.125Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.158Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T21:44:20.159Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.264Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.264Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.303Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T21:44:20.315Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.370Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.378Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.411Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T21:44:20.414Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.484Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.489Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.529Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T21:44:20.530Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.569Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.569Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.644Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T21:44:20.648Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.710Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-10-05T21:44:20.710Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-10-05T21:44:20.757Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T21:44:20.757Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:20.879Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T21:44:20.879Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:20.891Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T21:44:20.892Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:21.004Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T21:44:21.004Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:21.135Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T21:44:21.139Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[debug] [2025-10-05T21:44:21.226Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T21:44:21.227Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:21.326Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T21:44:21.326Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T21:44:21.433Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T21:44:21.434Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T21:44:21.602Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T21:44:21.603Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:21.634Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T21:44:21.634Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:21.743Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T21:44:21.744Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[debug] [2025-10-05T21:44:21.823Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T21:44:21.824Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:35.017Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.021Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.022Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.025Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.026Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.027Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.028Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.028Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.029Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.029Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.032Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T21:44:35.032Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.117Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T21:44:35.118Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.136Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T21:44:35.137Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.148Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T21:44:35.149Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.157Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T21:44:35.158Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:35.318Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.319Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.320Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.320Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.321Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.321Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.322Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.322Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.323Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.323Z] Checked if tokens are valid: true, expires at: 1759704259710
+[debug] [2025-10-05T21:44:35.326Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [none]
+[debug] [2025-10-05T21:44:35.326Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.334Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-10-05T21:44:35.334Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.339Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-10-05T21:44:35.340Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.343Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-10-05T21:44:35.343Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.347Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [none]
+[debug] [2025-10-05T21:44:35.347Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com x-goog-quota-user=projects/fernandasar-portfolio
+[debug] [2025-10-05T21:44:35.866Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T21:44:35.866Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:35.991Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T21:44:35.992Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T21:44:36.017Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T21:44:36.017Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:36.019Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com 403
+[debug] [2025-10-05T21:44:36.020Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-10-05T21:44:36.024Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-10-05T21:44:36.024Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:36.040Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T21:44:36.041Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:36.093Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-10-05T21:44:36.095Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:36.115Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-10-05T21:44:36.115Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-10-05T21:44:36.288Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T21:44:36.288Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[debug] [2025-10-05T21:44:36.359Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ 200
+[debug] [2025-10-05T21:44:36.361Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/fernandasar-portfolio/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:36.371Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T21:44:36.372Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:36.411Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T21:44:36.413Z] > authorizing via signed-in user (fernandasar1289@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-10-05T21:44:36.432Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-10-05T21:44:36.435Z] > authorizing via signed-in user (fernandasar1289@gmail.com)

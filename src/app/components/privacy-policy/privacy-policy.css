@@ -1,0 +1,32 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h1, h2 {
+    color: #343a40;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    border-bottom: 2px solid #6a11cb;
+    padding-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+    color: #2575fc;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  a {
+    color: #6a11cb;
+  }
+  
+  a:hover {
+    color: #2575fc;
+  }

@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+:root {
+  --primary-color: #9b59b6;
+  --secondary-color: #8e44ad;
+  --background-color: #f4f4f4;
+  --text-color: #333;
+  --gradient: linear-gradient(90deg, #4b32b2, #a547b2, #d647b2);
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: "Montserrat", sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  --primary-color: #a163b8;
+  --secondary-color: #9b59b6;
+  --background-color: #121212;
+  --text-color: #f4f4f4;
+}
+
+main {
+  font-size: 18px;
+  padding-top: 80px;
+}
+
+
+.card-title{
+  font-weight: bold;
+}
